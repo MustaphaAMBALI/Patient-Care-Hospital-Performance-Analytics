@@ -1,0 +1,1001 @@
+Admission_ID,Patient_ID,Department,Admission_Type,Length_of_Stay,Readmitted
+A0001,P0061,Cardiology,Emergency,8,No
+A0002,P0122,Pediatrics,Elective,10,No
+A0003,P0051,General Medicine,Emergency,1,No
+A0004,P0277,Pediatrics,Routine,7,Yes
+A0005,P0005,Pediatrics,Elective,13,No
+A0006,P0092,Cardiology,Emergency,5,No
+A0007,P0170,Cardiology,Emergency,10,No
+A0008,P0022,Cardiology,Emergency,1,No
+A0009,P0001,Cardiology,Emergency,3,No
+A0010,P0133,Oncology,Routine,7,Yes
+A0011,P0233,Cardiology,Elective,10,Yes
+A0012,P0012,Oncology,Routine,1,No
+A0013,P0046,Oncology,Elective,7,No
+A0014,P0034,Cardiology,Elective,5,Yes
+A0015,P0078,Orthopedics,Emergency,1,No
+A0016,P0218,General Medicine,Emergency,1,No
+A0017,P0073,Pediatrics,Routine,14,Yes
+A0018,P0282,Oncology,Routine,1,No
+A0019,P0249,General Medicine,Emergency,11,No
+A0020,P0047,Orthopedics,Emergency,9,Yes
+A0021,P0121,Pediatrics,Elective,11,No
+A0022,P0214,Pediatrics,Routine,13,No
+A0023,P0239,Oncology,Emergency,3,No
+A0024,P0056,Cardiology,Elective,13,No
+A0025,P0107,Orthopedics,Routine,5,No
+A0026,P0048,Oncology,Emergency,11,No
+A0027,P0061,Orthopedics,Emergency,10,No
+A0028,P0026,Cardiology,Elective,12,No
+A0029,P0292,Cardiology,Routine,9,No
+A0030,P0257,Oncology,Emergency,6,Yes
+A0031,P0008,Cardiology,Elective,12,No
+A0032,P0113,General Medicine,Elective,9,No
+A0033,P0253,Pediatrics,Elective,8,Yes
+A0034,P0180,Oncology,Elective,8,No
+A0035,P0207,Orthopedics,Elective,1,Yes
+A0036,P0127,General Medicine,Elective,13,Yes
+A0037,P0056,Oncology,Elective,9,No
+A0038,P0214,Cardiology,Elective,6,No
+A0039,P0014,Cardiology,Elective,9,Yes
+A0040,P0028,Cardiology,Routine,3,No
+A0041,P0078,Cardiology,Emergency,12,No
+A0042,P0216,Orthopedics,Routine,3,No
+A0043,P0154,General Medicine,Routine,6,No
+A0044,P0014,Pediatrics,Emergency,9,No
+A0045,P0187,Orthopedics,Elective,7,Yes
+A0046,P0007,Orthopedics,Elective,14,No
+A0047,P0003,Pediatrics,Emergency,13,No
+A0048,P0111,Pediatrics,Emergency,3,No
+A0049,P0238,Cardiology,Emergency,3,No
+A0050,P0239,Orthopedics,Emergency,2,Yes
+A0051,P0274,Oncology,Routine,9,No
+A0052,P0294,Pediatrics,Emergency,13,Yes
+A0053,P0227,Pediatrics,Routine,3,No
+A0054,P0015,General Medicine,Elective,11,No
+A0055,P0192,Oncology,Routine,5,No
+A0056,P0119,Oncology,Elective,14,No
+A0057,P0028,Pediatrics,Emergency,14,No
+A0058,P0202,Cardiology,Elective,9,Yes
+A0059,P0039,General Medicine,Emergency,8,No
+A0060,P0273,Oncology,Elective,2,Yes
+A0061,P0231,Pediatrics,Routine,3,Yes
+A0062,P0086,Oncology,Emergency,2,No
+A0063,P0126,General Medicine,Emergency,8,No
+A0064,P0300,General Medicine,Routine,6,No
+A0065,P0025,Orthopedics,Routine,6,Yes
+A0066,P0145,Pediatrics,Elective,12,No
+A0067,P0013,General Medicine,Emergency,9,No
+A0068,P0212,Orthopedics,Elective,8,No
+A0069,P0025,Orthopedics,Emergency,4,Yes
+A0070,P0068,Oncology,Routine,12,No
+A0071,P0067,Oncology,Routine,4,No
+A0072,P0233,Orthopedics,Routine,9,No
+A0073,P0109,Oncology,Routine,1,No
+A0074,P0146,General Medicine,Emergency,13,No
+A0075,P0111,Cardiology,Routine,2,No
+A0076,P0228,General Medicine,Routine,2,Yes
+A0077,P0111,Orthopedics,Emergency,13,Yes
+A0078,P0034,Orthopedics,Routine,13,No
+A0079,P0111,General Medicine,Emergency,6,No
+A0080,P0264,Oncology,Elective,4,No
+A0081,P0236,Oncology,Routine,13,Yes
+A0082,P0083,Orthopedics,Elective,11,No
+A0083,P0042,Pediatrics,Emergency,10,No
+A0084,P0101,Oncology,Elective,13,No
+A0085,P0006,General Medicine,Elective,3,No
+A0086,P0180,Oncology,Routine,3,No
+A0087,P0282,General Medicine,Elective,3,Yes
+A0088,P0226,Orthopedics,Emergency,6,No
+A0089,P0229,Oncology,Routine,14,No
+A0090,P0289,General Medicine,Elective,8,No
+A0091,P0150,Orthopedics,Elective,11,Yes
+A0092,P0277,Pediatrics,Elective,7,Yes
+A0093,P0198,General Medicine,Routine,14,No
+A0094,P0070,Pediatrics,Elective,4,No
+A0095,P0112,Pediatrics,Elective,11,No
+A0096,P0004,Cardiology,Emergency,12,No
+A0097,P0095,Oncology,Emergency,4,No
+A0098,P0152,General Medicine,Emergency,11,Yes
+A0099,P0137,Pediatrics,Emergency,10,No
+A0100,P0247,Cardiology,Elective,11,No
+A0101,P0243,Orthopedics,Routine,11,No
+A0102,P0031,General Medicine,Elective,14,No
+A0103,P0040,Pediatrics,Routine,11,No
+A0104,P0229,Oncology,Routine,2,No
+A0105,P0036,Cardiology,Routine,14,No
+A0106,P0223,Pediatrics,Elective,1,Yes
+A0107,P0006,Oncology,Elective,9,Yes
+A0108,P0220,Pediatrics,Elective,12,No
+A0109,P0075,General Medicine,Emergency,12,Yes
+A0110,P0004,General Medicine,Emergency,2,Yes
+A0111,P0134,General Medicine,Routine,13,No
+A0112,P0118,Cardiology,Routine,8,No
+A0113,P0094,General Medicine,Emergency,9,No
+A0114,P0062,Oncology,Elective,4,No
+A0115,P0194,Pediatrics,Routine,8,No
+A0116,P0203,Orthopedics,Emergency,9,No
+A0117,P0026,Oncology,Emergency,10,Yes
+A0118,P0173,Oncology,Routine,10,No
+A0119,P0300,General Medicine,Elective,5,Yes
+A0120,P0133,Cardiology,Emergency,13,No
+A0121,P0118,Pediatrics,Elective,14,Yes
+A0122,P0275,Cardiology,Routine,7,No
+A0123,P0212,Pediatrics,Elective,10,No
+A0124,P0225,Pediatrics,Emergency,4,No
+A0125,P0020,Cardiology,Emergency,1,No
+A0126,P0113,Oncology,Elective,3,No
+A0127,P0140,Pediatrics,Elective,5,Yes
+A0128,P0047,Cardiology,Routine,3,No
+A0129,P0001,Pediatrics,Emergency,12,No
+A0130,P0090,Orthopedics,Routine,13,No
+A0131,P0142,Oncology,Emergency,11,Yes
+A0132,P0038,General Medicine,Emergency,7,Yes
+A0133,P0293,Pediatrics,Emergency,12,No
+A0134,P0139,Orthopedics,Emergency,9,No
+A0135,P0259,General Medicine,Elective,12,No
+A0136,P0161,General Medicine,Elective,6,Yes
+A0137,P0178,Pediatrics,Emergency,13,No
+A0138,P0010,Cardiology,Elective,10,Yes
+A0139,P0261,Pediatrics,Emergency,1,Yes
+A0140,P0138,Orthopedics,Routine,7,No
+A0141,P0172,General Medicine,Routine,3,Yes
+A0142,P0013,Pediatrics,Emergency,5,Yes
+A0143,P0168,Cardiology,Elective,10,No
+A0144,P0130,Pediatrics,Emergency,4,No
+A0145,P0084,Oncology,Emergency,10,Yes
+A0146,P0101,Cardiology,Emergency,5,Yes
+A0147,P0273,Orthopedics,Routine,5,Yes
+A0148,P0265,General Medicine,Elective,6,Yes
+A0149,P0038,Pediatrics,Emergency,14,No
+A0150,P0094,Cardiology,Routine,10,No
+A0151,P0095,Oncology,Elective,12,No
+A0152,P0069,Cardiology,Routine,10,No
+A0153,P0236,Oncology,Elective,13,No
+A0154,P0137,Orthopedics,Elective,13,No
+A0155,P0076,General Medicine,Emergency,11,No
+A0156,P0035,Orthopedics,Emergency,6,No
+A0157,P0001,Pediatrics,Routine,8,No
+A0158,P0296,Cardiology,Emergency,8,No
+A0159,P0060,Oncology,Routine,11,No
+A0160,P0267,Oncology,Elective,9,Yes
+A0161,P0229,Cardiology,Emergency,8,Yes
+A0162,P0270,Cardiology,Emergency,13,No
+A0163,P0286,Pediatrics,Emergency,11,No
+A0164,P0291,Orthopedics,Routine,2,No
+A0165,P0213,Oncology,Elective,14,No
+A0166,P0165,Pediatrics,Emergency,14,No
+A0167,P0005,Orthopedics,Emergency,12,No
+A0168,P0078,Pediatrics,Emergency,10,Yes
+A0169,P0062,Oncology,Elective,12,Yes
+A0170,P0132,Cardiology,Emergency,11,No
+A0171,P0089,Cardiology,Routine,1,No
+A0172,P0237,Orthopedics,Emergency,10,No
+A0173,P0042,General Medicine,Emergency,2,No
+A0174,P0089,Orthopedics,Elective,2,Yes
+A0175,P0296,General Medicine,Elective,12,No
+A0176,P0295,Pediatrics,Routine,3,No
+A0177,P0104,Pediatrics,Elective,10,No
+A0178,P0014,Oncology,Emergency,7,No
+A0179,P0288,General Medicine,Elective,2,Yes
+A0180,P0179,Oncology,Emergency,14,Yes
+A0181,P0125,Cardiology,Emergency,1,No
+A0182,P0023,General Medicine,Routine,14,No
+A0183,P0063,Orthopedics,Routine,6,No
+A0184,P0143,Cardiology,Routine,9,Yes
+A0185,P0153,Cardiology,Elective,3,No
+A0186,P0145,Orthopedics,Elective,6,Yes
+A0187,P0225,Cardiology,Emergency,3,Yes
+A0188,P0104,General Medicine,Emergency,14,No
+A0189,P0104,Oncology,Routine,13,No
+A0190,P0039,Cardiology,Emergency,1,Yes
+A0191,P0198,General Medicine,Routine,14,Yes
+A0192,P0134,Pediatrics,Routine,13,No
+A0193,P0067,General Medicine,Emergency,12,Yes
+A0194,P0179,Oncology,Elective,5,No
+A0195,P0042,General Medicine,Elective,10,No
+A0196,P0015,Orthopedics,Emergency,14,Yes
+A0197,P0111,Oncology,Routine,13,Yes
+A0198,P0157,Pediatrics,Elective,11,No
+A0199,P0289,Orthopedics,Emergency,4,No
+A0200,P0231,General Medicine,Elective,7,No
+A0201,P0157,Oncology,Routine,6,No
+A0202,P0038,Pediatrics,Emergency,10,No
+A0203,P0097,Orthopedics,Routine,7,No
+A0204,P0289,Pediatrics,Emergency,5,No
+A0205,P0254,General Medicine,Routine,4,No
+A0206,P0196,Pediatrics,Routine,7,No
+A0207,P0086,Cardiology,Emergency,7,No
+A0208,P0010,Orthopedics,Emergency,6,No
+A0209,P0005,Pediatrics,Routine,8,No
+A0210,P0123,General Medicine,Elective,4,Yes
+A0211,P0118,General Medicine,Routine,10,No
+A0212,P0294,Pediatrics,Emergency,5,No
+A0213,P0159,General Medicine,Routine,4,Yes
+A0214,P0228,Oncology,Routine,12,Yes
+A0215,P0216,Oncology,Routine,1,No
+A0216,P0184,Oncology,Emergency,12,No
+A0217,P0015,Cardiology,Elective,8,No
+A0218,P0157,Pediatrics,Elective,1,No
+A0219,P0136,Cardiology,Emergency,5,No
+A0220,P0261,General Medicine,Elective,6,Yes
+A0221,P0157,Cardiology,Emergency,6,No
+A0222,P0047,General Medicine,Routine,13,No
+A0223,P0173,General Medicine,Elective,5,No
+A0224,P0130,Orthopedics,Emergency,3,No
+A0225,P0095,Oncology,Elective,5,No
+A0226,P0115,General Medicine,Elective,12,Yes
+A0227,P0243,Orthopedics,Emergency,8,No
+A0228,P0292,Oncology,Routine,14,Yes
+A0229,P0282,General Medicine,Routine,2,No
+A0230,P0299,General Medicine,Elective,6,Yes
+A0231,P0283,Cardiology,Emergency,9,Yes
+A0232,P0069,Cardiology,Routine,8,No
+A0233,P0148,Oncology,Elective,14,No
+A0234,P0011,General Medicine,Emergency,11,No
+A0235,P0254,Pediatrics,Elective,8,Yes
+A0236,P0038,Cardiology,Elective,8,Yes
+A0237,P0134,Oncology,Elective,13,No
+A0238,P0200,General Medicine,Elective,7,Yes
+A0239,P0023,General Medicine,Elective,8,Yes
+A0240,P0218,Pediatrics,Routine,13,No
+A0241,P0141,Oncology,Emergency,6,No
+A0242,P0104,General Medicine,Routine,2,No
+A0243,P0210,Cardiology,Routine,2,No
+A0244,P0111,Pediatrics,Elective,8,No
+A0245,P0104,Oncology,Elective,11,No
+A0246,P0171,Pediatrics,Elective,1,No
+A0247,P0133,Cardiology,Elective,6,Yes
+A0248,P0293,Oncology,Routine,13,Yes
+A0249,P0127,Pediatrics,Elective,6,No
+A0250,P0106,Orthopedics,Routine,11,Yes
+A0251,P0092,Cardiology,Emergency,4,No
+A0252,P0287,Cardiology,Emergency,12,Yes
+A0253,P0051,Cardiology,Elective,11,No
+A0254,P0029,Orthopedics,Emergency,13,No
+A0255,P0296,Orthopedics,Emergency,11,Yes
+A0256,P0297,General Medicine,Emergency,13,Yes
+A0257,P0214,Pediatrics,Emergency,10,No
+A0258,P0267,General Medicine,Emergency,3,No
+A0259,P0257,Pediatrics,Routine,13,No
+A0260,P0101,Orthopedics,Emergency,11,No
+A0261,P0110,Orthopedics,Routine,3,No
+A0262,P0182,General Medicine,Routine,13,No
+A0263,P0001,Oncology,Routine,13,No
+A0264,P0055,General Medicine,Emergency,1,No
+A0265,P0149,Pediatrics,Routine,3,No
+A0266,P0137,General Medicine,Elective,4,No
+A0267,P0202,Cardiology,Elective,11,No
+A0268,P0117,Pediatrics,Elective,11,No
+A0269,P0154,Pediatrics,Routine,5,No
+A0270,P0291,Oncology,Emergency,3,Yes
+A0271,P0063,Orthopedics,Routine,6,Yes
+A0272,P0244,Pediatrics,Elective,11,No
+A0273,P0025,Orthopedics,Routine,14,No
+A0274,P0090,General Medicine,Routine,12,No
+A0275,P0075,Cardiology,Emergency,5,Yes
+A0276,P0294,Oncology,Routine,3,No
+A0277,P0210,Orthopedics,Emergency,6,No
+A0278,P0017,Pediatrics,Emergency,6,Yes
+A0279,P0128,Orthopedics,Emergency,14,No
+A0280,P0251,Pediatrics,Emergency,8,No
+A0281,P0179,Orthopedics,Elective,2,No
+A0282,P0182,Pediatrics,Emergency,1,No
+A0283,P0152,General Medicine,Emergency,4,No
+A0284,P0025,Pediatrics,Routine,7,No
+A0285,P0180,Pediatrics,Routine,11,No
+A0286,P0198,Cardiology,Routine,10,No
+A0287,P0161,Pediatrics,Routine,3,No
+A0288,P0177,Cardiology,Routine,3,No
+A0289,P0285,Oncology,Emergency,5,No
+A0290,P0063,Cardiology,Emergency,5,No
+A0291,P0150,General Medicine,Routine,13,Yes
+A0292,P0154,Cardiology,Emergency,10,No
+A0293,P0156,Oncology,Elective,3,No
+A0294,P0049,General Medicine,Emergency,9,Yes
+A0295,P0084,Orthopedics,Emergency,4,No
+A0296,P0177,Orthopedics,Elective,13,Yes
+A0297,P0148,Cardiology,Elective,13,No
+A0298,P0118,Cardiology,Elective,3,No
+A0299,P0063,Oncology,Elective,11,No
+A0300,P0189,Oncology,Emergency,2,Yes
+A0301,P0049,Pediatrics,Emergency,10,Yes
+A0302,P0257,Oncology,Routine,13,No
+A0303,P0224,Pediatrics,Elective,11,No
+A0304,P0141,General Medicine,Emergency,9,No
+A0305,P0215,Cardiology,Routine,4,No
+A0306,P0211,General Medicine,Emergency,3,No
+A0307,P0032,Oncology,Elective,7,No
+A0308,P0158,General Medicine,Emergency,8,No
+A0309,P0285,General Medicine,Routine,11,No
+A0310,P0286,General Medicine,Elective,14,No
+A0311,P0144,Oncology,Emergency,2,No
+A0312,P0019,General Medicine,Routine,7,Yes
+A0313,P0018,Pediatrics,Elective,12,No
+A0314,P0257,Oncology,Emergency,5,No
+A0315,P0078,General Medicine,Emergency,11,Yes
+A0316,P0175,Oncology,Emergency,5,Yes
+A0317,P0194,Orthopedics,Emergency,3,No
+A0318,P0113,Pediatrics,Elective,5,No
+A0319,P0114,General Medicine,Routine,12,No
+A0320,P0222,Orthopedics,Elective,2,No
+A0321,P0166,Orthopedics,Emergency,4,No
+A0322,P0132,Oncology,Emergency,6,No
+A0323,P0264,Orthopedics,Emergency,1,No
+A0324,P0055,Pediatrics,Elective,10,No
+A0325,P0131,Pediatrics,Routine,4,No
+A0326,P0288,Cardiology,Emergency,6,Yes
+A0327,P0266,Pediatrics,Routine,9,No
+A0328,P0162,Orthopedics,Routine,14,No
+A0329,P0087,Pediatrics,Elective,11,Yes
+A0330,P0055,Oncology,Routine,11,Yes
+A0331,P0288,Cardiology,Elective,13,No
+A0332,P0178,Orthopedics,Elective,2,No
+A0333,P0008,Cardiology,Elective,11,No
+A0334,P0247,Orthopedics,Elective,7,Yes
+A0335,P0255,Oncology,Emergency,6,Yes
+A0336,P0054,Cardiology,Emergency,2,No
+A0337,P0249,General Medicine,Emergency,8,No
+A0338,P0239,Orthopedics,Elective,7,No
+A0339,P0229,General Medicine,Emergency,11,No
+A0340,P0067,Cardiology,Routine,5,No
+A0341,P0051,General Medicine,Routine,12,No
+A0342,P0097,General Medicine,Elective,5,No
+A0343,P0092,Cardiology,Emergency,7,No
+A0344,P0264,Oncology,Routine,9,No
+A0345,P0291,General Medicine,Routine,11,No
+A0346,P0096,General Medicine,Routine,9,No
+A0347,P0088,Oncology,Emergency,9,No
+A0348,P0078,General Medicine,Elective,6,Yes
+A0349,P0288,General Medicine,Emergency,10,No
+A0350,P0120,General Medicine,Emergency,6,No
+A0351,P0165,Pediatrics,Routine,3,No
+A0352,P0182,Oncology,Routine,1,No
+A0353,P0223,General Medicine,Elective,7,No
+A0354,P0007,Oncology,Routine,4,Yes
+A0355,P0263,Orthopedics,Elective,1,No
+A0356,P0161,Orthopedics,Elective,8,No
+A0357,P0151,General Medicine,Emergency,12,No
+A0358,P0085,Oncology,Routine,6,No
+A0359,P0147,Oncology,Emergency,6,No
+A0360,P0112,Oncology,Routine,2,No
+A0361,P0036,Pediatrics,Routine,1,Yes
+A0362,P0285,Orthopedics,Emergency,13,Yes
+A0363,P0188,Oncology,Elective,14,No
+A0364,P0082,Oncology,Routine,14,No
+A0365,P0002,Pediatrics,Elective,2,No
+A0366,P0197,Pediatrics,Routine,4,No
+A0367,P0011,Oncology,Routine,2,No
+A0368,P0234,Cardiology,Elective,1,No
+A0369,P0195,Oncology,Emergency,7,No
+A0370,P0119,Oncology,Routine,11,No
+A0371,P0020,Pediatrics,Elective,11,No
+A0372,P0261,Pediatrics,Emergency,12,No
+A0373,P0293,Oncology,Emergency,8,Yes
+A0374,P0256,Oncology,Elective,6,Yes
+A0375,P0222,Oncology,Routine,4,No
+A0376,P0226,Pediatrics,Routine,14,No
+A0377,P0053,Oncology,Elective,6,No
+A0378,P0280,Oncology,Emergency,3,No
+A0379,P0081,General Medicine,Emergency,12,No
+A0380,P0202,Cardiology,Routine,8,No
+A0381,P0158,Orthopedics,Emergency,10,No
+A0382,P0120,Cardiology,Emergency,14,Yes
+A0383,P0059,General Medicine,Emergency,13,No
+A0384,P0215,Orthopedics,Elective,13,No
+A0385,P0128,Oncology,Routine,2,Yes
+A0386,P0224,General Medicine,Emergency,5,No
+A0387,P0209,Oncology,Elective,1,Yes
+A0388,P0115,Pediatrics,Elective,6,No
+A0389,P0209,General Medicine,Routine,2,No
+A0390,P0014,Pediatrics,Emergency,4,No
+A0391,P0009,General Medicine,Elective,6,No
+A0392,P0040,General Medicine,Emergency,10,No
+A0393,P0237,Pediatrics,Routine,11,No
+A0394,P0281,Orthopedics,Elective,8,No
+A0395,P0201,Cardiology,Emergency,12,No
+A0396,P0246,Oncology,Elective,8,No
+A0397,P0278,General Medicine,Routine,11,No
+A0398,P0235,Oncology,Emergency,6,No
+A0399,P0004,Pediatrics,Routine,4,No
+A0400,P0154,Oncology,Emergency,8,No
+A0401,P0029,Pediatrics,Elective,13,No
+A0402,P0109,Oncology,Elective,8,No
+A0403,P0098,Cardiology,Routine,10,No
+A0404,P0215,Cardiology,Emergency,14,No
+A0405,P0293,Cardiology,Routine,1,No
+A0406,P0075,Cardiology,Routine,4,No
+A0407,P0146,Cardiology,Elective,4,No
+A0408,P0128,Cardiology,Routine,7,No
+A0409,P0042,Pediatrics,Routine,14,No
+A0410,P0041,General Medicine,Emergency,14,No
+A0411,P0034,Oncology,Emergency,11,No
+A0412,P0017,Cardiology,Routine,7,No
+A0413,P0165,Pediatrics,Emergency,13,Yes
+A0414,P0153,Pediatrics,Routine,11,Yes
+A0415,P0076,Pediatrics,Routine,8,Yes
+A0416,P0087,General Medicine,Emergency,11,No
+A0417,P0117,Oncology,Elective,5,Yes
+A0418,P0027,General Medicine,Elective,7,Yes
+A0419,P0287,Orthopedics,Elective,8,No
+A0420,P0134,Pediatrics,Emergency,9,No
+A0421,P0219,Orthopedics,Emergency,3,No
+A0422,P0168,Cardiology,Elective,3,No
+A0423,P0098,Cardiology,Routine,4,Yes
+A0424,P0268,General Medicine,Routine,5,No
+A0425,P0237,Oncology,Elective,10,No
+A0426,P0173,Orthopedics,Emergency,1,No
+A0427,P0190,Oncology,Elective,7,No
+A0428,P0122,General Medicine,Emergency,9,No
+A0429,P0046,Cardiology,Routine,8,No
+A0430,P0064,Oncology,Routine,5,No
+A0431,P0130,Oncology,Routine,14,Yes
+A0432,P0193,Cardiology,Routine,14,Yes
+A0433,P0181,Orthopedics,Emergency,4,Yes
+A0434,P0292,Cardiology,Routine,12,No
+A0435,P0282,Oncology,Emergency,7,No
+A0436,P0029,Orthopedics,Routine,5,Yes
+A0437,P0149,Orthopedics,Emergency,7,No
+A0438,P0267,Cardiology,Routine,12,No
+A0439,P0296,Oncology,Routine,1,Yes
+A0440,P0011,General Medicine,Emergency,1,No
+A0441,P0164,Oncology,Emergency,10,Yes
+A0442,P0113,Pediatrics,Routine,14,No
+A0443,P0187,General Medicine,Elective,13,No
+A0444,P0295,Orthopedics,Emergency,3,Yes
+A0445,P0232,General Medicine,Emergency,14,Yes
+A0446,P0227,Orthopedics,Emergency,11,No
+A0447,P0098,Orthopedics,Routine,2,Yes
+A0448,P0055,General Medicine,Elective,2,Yes
+A0449,P0111,Orthopedics,Emergency,7,No
+A0450,P0152,Orthopedics,Emergency,12,No
+A0451,P0246,Pediatrics,Emergency,10,No
+A0452,P0069,Oncology,Emergency,2,No
+A0453,P0289,Oncology,Elective,11,No
+A0454,P0250,Pediatrics,Emergency,4,Yes
+A0455,P0036,General Medicine,Emergency,2,Yes
+A0456,P0239,Cardiology,Routine,6,No
+A0457,P0148,Cardiology,Emergency,8,No
+A0458,P0227,Cardiology,Elective,10,No
+A0459,P0244,Pediatrics,Elective,4,No
+A0460,P0201,Pediatrics,Elective,5,No
+A0461,P0154,Orthopedics,Elective,4,No
+A0462,P0073,Cardiology,Elective,3,No
+A0463,P0201,General Medicine,Routine,5,No
+A0464,P0296,General Medicine,Elective,14,No
+A0465,P0017,Cardiology,Elective,9,Yes
+A0466,P0129,Cardiology,Routine,8,No
+A0467,P0217,Cardiology,Elective,8,No
+A0468,P0061,Pediatrics,Emergency,8,No
+A0469,P0104,Pediatrics,Emergency,12,No
+A0470,P0042,Pediatrics,Emergency,8,No
+A0471,P0025,Oncology,Routine,7,Yes
+A0472,P0039,General Medicine,Routine,8,No
+A0473,P0291,General Medicine,Routine,11,No
+A0474,P0131,Orthopedics,Elective,14,No
+A0475,P0229,Pediatrics,Elective,8,No
+A0476,P0108,Oncology,Emergency,13,No
+A0477,P0172,Oncology,Elective,14,No
+A0478,P0102,General Medicine,Elective,8,No
+A0479,P0012,Pediatrics,Routine,12,No
+A0480,P0275,Orthopedics,Emergency,10,No
+A0481,P0101,Pediatrics,Elective,7,No
+A0482,P0044,Cardiology,Elective,12,Yes
+A0483,P0017,Pediatrics,Elective,1,No
+A0484,P0057,Cardiology,Elective,4,Yes
+A0485,P0012,Cardiology,Routine,13,No
+A0486,P0080,Orthopedics,Emergency,13,No
+A0487,P0216,General Medicine,Routine,4,No
+A0488,P0264,Pediatrics,Elective,5,No
+A0489,P0149,Cardiology,Routine,10,Yes
+A0490,P0081,Pediatrics,Routine,6,Yes
+A0491,P0215,General Medicine,Emergency,4,No
+A0492,P0198,General Medicine,Emergency,2,No
+A0493,P0200,Oncology,Routine,6,No
+A0494,P0025,General Medicine,Elective,8,Yes
+A0495,P0089,Orthopedics,Routine,8,Yes
+A0496,P0268,Cardiology,Emergency,7,Yes
+A0497,P0143,Oncology,Elective,6,Yes
+A0498,P0059,Orthopedics,Routine,2,No
+A0499,P0026,Pediatrics,Routine,7,No
+A0500,P0047,Cardiology,Emergency,11,No
+A0501,P0288,General Medicine,Routine,12,No
+A0502,P0266,Cardiology,Elective,14,Yes
+A0503,P0016,Pediatrics,Emergency,14,No
+A0504,P0199,Oncology,Elective,5,Yes
+A0505,P0282,Oncology,Elective,6,No
+A0506,P0086,Oncology,Routine,10,No
+A0507,P0250,General Medicine,Elective,8,Yes
+A0508,P0270,Orthopedics,Emergency,14,Yes
+A0509,P0117,Orthopedics,Emergency,8,No
+A0510,P0007,Cardiology,Elective,3,No
+A0511,P0137,General Medicine,Emergency,12,No
+A0512,P0176,Oncology,Routine,12,Yes
+A0513,P0215,Oncology,Emergency,14,Yes
+A0514,P0082,Pediatrics,Routine,7,No
+A0515,P0223,Pediatrics,Routine,1,Yes
+A0516,P0103,Oncology,Elective,1,No
+A0517,P0273,Oncology,Routine,7,Yes
+A0518,P0014,General Medicine,Routine,10,No
+A0519,P0159,Orthopedics,Elective,9,Yes
+A0520,P0152,Pediatrics,Emergency,7,No
+A0521,P0108,Orthopedics,Elective,10,No
+A0522,P0188,General Medicine,Elective,5,No
+A0523,P0098,Oncology,Routine,8,No
+A0524,P0131,Orthopedics,Elective,2,No
+A0525,P0293,Oncology,Routine,9,No
+A0526,P0171,Oncology,Elective,6,No
+A0527,P0183,Cardiology,Emergency,13,No
+A0528,P0039,Orthopedics,Routine,9,Yes
+A0529,P0015,Orthopedics,Elective,2,Yes
+A0530,P0004,Oncology,Emergency,3,No
+A0531,P0210,General Medicine,Elective,12,Yes
+A0532,P0161,Cardiology,Emergency,8,No
+A0533,P0016,Oncology,Elective,1,No
+A0534,P0108,Pediatrics,Elective,10,No
+A0535,P0227,Pediatrics,Elective,7,No
+A0536,P0170,Cardiology,Routine,7,No
+A0537,P0034,General Medicine,Elective,13,No
+A0538,P0251,Oncology,Emergency,1,Yes
+A0539,P0247,Orthopedics,Elective,9,No
+A0540,P0269,Cardiology,Routine,8,Yes
+A0541,P0141,General Medicine,Emergency,4,Yes
+A0542,P0274,Orthopedics,Emergency,10,No
+A0543,P0096,Pediatrics,Emergency,11,No
+A0544,P0227,Pediatrics,Emergency,5,No
+A0545,P0039,Orthopedics,Routine,2,Yes
+A0546,P0029,Cardiology,Routine,13,No
+A0547,P0245,Pediatrics,Emergency,9,Yes
+A0548,P0236,Oncology,Elective,12,No
+A0549,P0185,Orthopedics,Emergency,12,No
+A0550,P0272,Orthopedics,Routine,6,No
+A0551,P0236,Pediatrics,Routine,3,No
+A0552,P0239,Cardiology,Emergency,12,No
+A0553,P0266,Oncology,Routine,7,No
+A0554,P0065,Cardiology,Routine,9,No
+A0555,P0177,General Medicine,Emergency,3,No
+A0556,P0003,General Medicine,Emergency,2,No
+A0557,P0142,Pediatrics,Elective,7,No
+A0558,P0158,Pediatrics,Routine,7,No
+A0559,P0146,Pediatrics,Routine,4,No
+A0560,P0293,General Medicine,Routine,11,No
+A0561,P0153,Cardiology,Routine,9,No
+A0562,P0193,Cardiology,Elective,14,No
+A0563,P0073,Pediatrics,Routine,8,Yes
+A0564,P0140,Oncology,Routine,13,Yes
+A0565,P0187,Cardiology,Emergency,13,No
+A0566,P0293,General Medicine,Elective,1,No
+A0567,P0061,Orthopedics,Routine,1,Yes
+A0568,P0198,Orthopedics,Emergency,5,No
+A0569,P0295,Orthopedics,Routine,6,Yes
+A0570,P0011,Oncology,Emergency,3,No
+A0571,P0062,Pediatrics,Elective,13,No
+A0572,P0226,General Medicine,Routine,9,Yes
+A0573,P0153,Oncology,Emergency,12,Yes
+A0574,P0199,General Medicine,Emergency,10,No
+A0575,P0052,General Medicine,Elective,14,No
+A0576,P0260,Pediatrics,Routine,6,No
+A0577,P0059,Orthopedics,Emergency,4,No
+A0578,P0072,Pediatrics,Routine,12,No
+A0579,P0148,Oncology,Emergency,7,Yes
+A0580,P0063,Oncology,Routine,8,No
+A0581,P0243,Oncology,Routine,9,Yes
+A0582,P0107,Pediatrics,Elective,13,No
+A0583,P0226,General Medicine,Elective,11,No
+A0584,P0218,General Medicine,Elective,6,No
+A0585,P0241,Cardiology,Elective,6,Yes
+A0586,P0259,Oncology,Emergency,8,No
+A0587,P0262,General Medicine,Emergency,12,Yes
+A0588,P0005,Cardiology,Emergency,5,Yes
+A0589,P0261,General Medicine,Elective,14,No
+A0590,P0054,Oncology,Emergency,3,Yes
+A0591,P0047,Orthopedics,Elective,12,No
+A0592,P0215,Oncology,Routine,3,Yes
+A0593,P0177,Pediatrics,Emergency,13,No
+A0594,P0009,General Medicine,Elective,6,No
+A0595,P0099,General Medicine,Elective,2,No
+A0596,P0020,Pediatrics,Routine,6,No
+A0597,P0241,Pediatrics,Routine,13,No
+A0598,P0061,Orthopedics,Routine,6,No
+A0599,P0178,General Medicine,Routine,8,No
+A0600,P0062,General Medicine,Emergency,7,No
+A0601,P0145,Orthopedics,Routine,8,No
+A0602,P0216,Cardiology,Routine,14,No
+A0603,P0003,Orthopedics,Emergency,9,No
+A0604,P0160,Oncology,Routine,6,No
+A0605,P0227,General Medicine,Emergency,14,No
+A0606,P0269,Pediatrics,Elective,3,No
+A0607,P0120,Oncology,Emergency,10,Yes
+A0608,P0089,General Medicine,Elective,3,Yes
+A0609,P0068,Orthopedics,Routine,11,No
+A0610,P0098,Oncology,Elective,12,No
+A0611,P0267,General Medicine,Elective,1,No
+A0612,P0105,Cardiology,Emergency,11,No
+A0613,P0123,Cardiology,Routine,13,No
+A0614,P0029,Pediatrics,Emergency,5,Yes
+A0615,P0137,General Medicine,Elective,14,Yes
+A0616,P0195,Cardiology,Routine,4,No
+A0617,P0226,Orthopedics,Routine,9,No
+A0618,P0170,General Medicine,Elective,9,No
+A0619,P0009,Orthopedics,Routine,14,No
+A0620,P0040,Orthopedics,Routine,5,No
+A0621,P0025,Cardiology,Routine,10,No
+A0622,P0261,General Medicine,Elective,4,No
+A0623,P0226,Oncology,Emergency,7,Yes
+A0624,P0124,Cardiology,Emergency,6,No
+A0625,P0038,Cardiology,Emergency,4,No
+A0626,P0251,General Medicine,Elective,13,No
+A0627,P0176,General Medicine,Emergency,13,Yes
+A0628,P0090,Orthopedics,Elective,10,No
+A0629,P0037,General Medicine,Emergency,2,No
+A0630,P0176,Orthopedics,Emergency,1,No
+A0631,P0284,Cardiology,Routine,4,Yes
+A0632,P0081,Pediatrics,Elective,4,No
+A0633,P0114,Oncology,Emergency,13,No
+A0634,P0040,Cardiology,Routine,1,No
+A0635,P0224,General Medicine,Emergency,6,No
+A0636,P0115,Oncology,Routine,4,No
+A0637,P0186,Pediatrics,Routine,1,No
+A0638,P0056,Pediatrics,Emergency,1,No
+A0639,P0040,Orthopedics,Routine,13,No
+A0640,P0040,Oncology,Elective,1,Yes
+A0641,P0237,Orthopedics,Elective,8,No
+A0642,P0289,Cardiology,Emergency,10,Yes
+A0643,P0262,Oncology,Emergency,8,No
+A0644,P0216,Cardiology,Routine,2,Yes
+A0645,P0147,Orthopedics,Emergency,11,Yes
+A0646,P0168,Oncology,Elective,13,No
+A0647,P0092,Orthopedics,Elective,7,No
+A0648,P0059,Oncology,Elective,14,No
+A0649,P0059,Orthopedics,Emergency,8,Yes
+A0650,P0169,Pediatrics,Emergency,8,No
+A0651,P0269,Orthopedics,Routine,11,No
+A0652,P0045,Pediatrics,Emergency,10,No
+A0653,P0181,Orthopedics,Emergency,11,No
+A0654,P0170,Oncology,Emergency,13,Yes
+A0655,P0191,Oncology,Elective,7,No
+A0656,P0155,Oncology,Routine,5,Yes
+A0657,P0188,General Medicine,Emergency,1,No
+A0658,P0007,Cardiology,Emergency,12,No
+A0659,P0133,Oncology,Emergency,9,No
+A0660,P0235,Pediatrics,Routine,13,Yes
+A0661,P0045,Oncology,Elective,7,No
+A0662,P0249,General Medicine,Elective,2,Yes
+A0663,P0031,Pediatrics,Routine,6,No
+A0664,P0023,General Medicine,Elective,2,No
+A0665,P0160,Pediatrics,Routine,1,No
+A0666,P0158,Orthopedics,Routine,14,Yes
+A0667,P0039,Cardiology,Emergency,7,Yes
+A0668,P0082,Cardiology,Emergency,13,No
+A0669,P0258,General Medicine,Emergency,2,Yes
+A0670,P0206,Cardiology,Emergency,13,Yes
+A0671,P0077,General Medicine,Routine,14,No
+A0672,P0012,General Medicine,Elective,14,Yes
+A0673,P0295,General Medicine,Emergency,2,Yes
+A0674,P0224,Cardiology,Routine,13,No
+A0675,P0013,General Medicine,Elective,11,No
+A0676,P0046,Cardiology,Emergency,5,Yes
+A0677,P0155,General Medicine,Emergency,14,No
+A0678,P0113,Oncology,Elective,5,No
+A0679,P0233,General Medicine,Routine,7,No
+A0680,P0017,Pediatrics,Emergency,1,No
+A0681,P0223,General Medicine,Emergency,8,Yes
+A0682,P0188,Orthopedics,Elective,3,No
+A0683,P0163,General Medicine,Emergency,4,No
+A0684,P0074,Pediatrics,Elective,9,No
+A0685,P0233,Pediatrics,Elective,4,No
+A0686,P0224,Cardiology,Emergency,10,No
+A0687,P0060,Oncology,Routine,12,No
+A0688,P0222,General Medicine,Elective,5,No
+A0689,P0037,Cardiology,Emergency,7,No
+A0690,P0278,Oncology,Elective,4,Yes
+A0691,P0196,General Medicine,Routine,14,Yes
+A0692,P0242,Orthopedics,Routine,1,No
+A0693,P0219,General Medicine,Emergency,9,No
+A0694,P0192,Pediatrics,Routine,4,No
+A0695,P0017,Pediatrics,Elective,9,No
+A0696,P0012,Orthopedics,Emergency,6,No
+A0697,P0193,Cardiology,Emergency,1,Yes
+A0698,P0022,Oncology,Emergency,12,No
+A0699,P0120,General Medicine,Routine,3,Yes
+A0700,P0210,Pediatrics,Emergency,11,No
+A0701,P0270,Cardiology,Emergency,2,No
+A0702,P0192,Orthopedics,Routine,9,No
+A0703,P0175,Pediatrics,Emergency,12,No
+A0704,P0285,Orthopedics,Emergency,1,Yes
+A0705,P0204,General Medicine,Emergency,13,No
+A0706,P0164,Oncology,Emergency,14,No
+A0707,P0251,Pediatrics,Emergency,9,No
+A0708,P0227,Pediatrics,Elective,9,No
+A0709,P0007,General Medicine,Emergency,8,No
+A0710,P0029,Cardiology,Emergency,8,No
+A0711,P0033,Oncology,Routine,11,No
+A0712,P0134,Pediatrics,Elective,14,No
+A0713,P0079,Oncology,Elective,12,No
+A0714,P0058,Pediatrics,Elective,1,No
+A0715,P0026,Oncology,Emergency,11,No
+A0716,P0226,Orthopedics,Elective,8,No
+A0717,P0285,Pediatrics,Elective,10,No
+A0718,P0004,Oncology,Emergency,14,No
+A0719,P0099,Cardiology,Routine,3,Yes
+A0720,P0039,Orthopedics,Emergency,11,No
+A0721,P0271,Orthopedics,Routine,7,Yes
+A0722,P0285,Cardiology,Emergency,11,Yes
+A0723,P0157,Oncology,Routine,1,No
+A0724,P0075,General Medicine,Elective,1,No
+A0725,P0288,Cardiology,Routine,10,Yes
+A0726,P0130,Oncology,Emergency,13,Yes
+A0727,P0175,Cardiology,Elective,5,Yes
+A0728,P0084,Cardiology,Elective,5,No
+A0729,P0022,Pediatrics,Routine,8,Yes
+A0730,P0027,Oncology,Elective,7,Yes
+A0731,P0195,General Medicine,Elective,8,No
+A0732,P0236,Pediatrics,Elective,6,No
+A0733,P0092,Cardiology,Emergency,6,No
+A0734,P0021,Cardiology,Elective,2,Yes
+A0735,P0084,Cardiology,Emergency,6,No
+A0736,P0262,Oncology,Routine,5,No
+A0737,P0147,Oncology,Routine,13,No
+A0738,P0257,Pediatrics,Routine,3,No
+A0739,P0058,General Medicine,Emergency,6,No
+A0740,P0015,Pediatrics,Routine,8,Yes
+A0741,P0162,Orthopedics,Routine,9,No
+A0742,P0163,Cardiology,Elective,1,No
+A0743,P0281,Cardiology,Elective,3,No
+A0744,P0280,Cardiology,Emergency,3,Yes
+A0745,P0012,Pediatrics,Routine,11,Yes
+A0746,P0274,Pediatrics,Elective,8,No
+A0747,P0271,Cardiology,Emergency,1,Yes
+A0748,P0208,Pediatrics,Emergency,5,Yes
+A0749,P0027,Oncology,Routine,3,No
+A0750,P0072,Oncology,Routine,2,No
+A0751,P0060,Pediatrics,Routine,8,No
+A0752,P0145,Cardiology,Elective,3,No
+A0753,P0093,Pediatrics,Emergency,7,No
+A0754,P0008,Pediatrics,Emergency,12,Yes
+A0755,P0079,Pediatrics,Emergency,11,Yes
+A0756,P0027,Orthopedics,Emergency,1,No
+A0757,P0174,Oncology,Emergency,6,No
+A0758,P0050,General Medicine,Emergency,3,No
+A0759,P0199,General Medicine,Elective,8,Yes
+A0760,P0181,Orthopedics,Routine,6,No
+A0761,P0024,Pediatrics,Elective,12,No
+A0762,P0046,Orthopedics,Routine,2,No
+A0763,P0015,Orthopedics,Elective,6,No
+A0764,P0153,Cardiology,Emergency,7,No
+A0765,P0222,Oncology,Emergency,5,No
+A0766,P0206,General Medicine,Emergency,3,No
+A0767,P0273,Pediatrics,Emergency,4,Yes
+A0768,P0236,General Medicine,Elective,4,No
+A0769,P0228,General Medicine,Emergency,6,No
+A0770,P0009,Oncology,Emergency,10,Yes
+A0771,P0166,General Medicine,Emergency,1,No
+A0772,P0214,General Medicine,Routine,11,No
+A0773,P0117,Orthopedics,Routine,4,No
+A0774,P0072,Oncology,Routine,10,No
+A0775,P0064,Cardiology,Emergency,13,Yes
+A0776,P0205,Pediatrics,Routine,4,No
+A0777,P0209,General Medicine,Routine,10,No
+A0778,P0072,Pediatrics,Elective,1,No
+A0779,P0277,Cardiology,Routine,9,No
+A0780,P0274,Pediatrics,Emergency,4,No
+A0781,P0095,Cardiology,Routine,7,No
+A0782,P0166,Orthopedics,Routine,12,No
+A0783,P0032,General Medicine,Emergency,14,No
+A0784,P0011,Cardiology,Elective,3,Yes
+A0785,P0217,Pediatrics,Routine,10,No
+A0786,P0289,General Medicine,Emergency,12,No
+A0787,P0102,Orthopedics,Elective,3,Yes
+A0788,P0267,General Medicine,Routine,14,No
+A0789,P0214,Cardiology,Elective,8,Yes
+A0790,P0179,Orthopedics,Emergency,8,Yes
+A0791,P0088,Pediatrics,Elective,11,No
+A0792,P0041,Orthopedics,Emergency,12,Yes
+A0793,P0076,Orthopedics,Elective,1,Yes
+A0794,P0046,Oncology,Emergency,10,Yes
+A0795,P0160,Orthopedics,Elective,2,No
+A0796,P0080,Orthopedics,Elective,8,Yes
+A0797,P0086,General Medicine,Routine,1,No
+A0798,P0092,Pediatrics,Elective,12,Yes
+A0799,P0148,General Medicine,Elective,8,No
+A0800,P0161,General Medicine,Elective,8,No
+A0801,P0202,Cardiology,Emergency,2,No
+A0802,P0242,General Medicine,Elective,4,No
+A0803,P0002,Oncology,Emergency,6,No
+A0804,P0225,Oncology,Routine,12,No
+A0805,P0289,Cardiology,Emergency,11,No
+A0806,P0233,Pediatrics,Elective,9,Yes
+A0807,P0077,Pediatrics,Elective,8,No
+A0808,P0116,General Medicine,Elective,12,No
+A0809,P0154,General Medicine,Emergency,8,No
+A0810,P0103,General Medicine,Elective,7,No
+A0811,P0194,Pediatrics,Elective,14,No
+A0812,P0166,Orthopedics,Routine,13,No
+A0813,P0090,Oncology,Emergency,9,Yes
+A0814,P0174,Orthopedics,Elective,2,Yes
+A0815,P0122,Orthopedics,Elective,3,Yes
+A0816,P0143,Pediatrics,Elective,10,No
+A0817,P0106,Orthopedics,Elective,8,No
+A0818,P0123,Cardiology,Elective,14,No
+A0819,P0009,General Medicine,Emergency,6,No
+A0820,P0262,Cardiology,Emergency,10,No
+A0821,P0073,Oncology,Emergency,9,No
+A0822,P0223,General Medicine,Emergency,10,No
+A0823,P0041,Orthopedics,Elective,4,No
+A0824,P0204,Oncology,Elective,8,No
+A0825,P0264,General Medicine,Emergency,10,No
+A0826,P0178,Orthopedics,Routine,3,No
+A0827,P0084,Cardiology,Emergency,3,No
+A0828,P0111,General Medicine,Routine,8,No
+A0829,P0251,Orthopedics,Elective,5,No
+A0830,P0007,Cardiology,Emergency,3,No
+A0831,P0084,Oncology,Emergency,10,Yes
+A0832,P0208,Oncology,Elective,11,No
+A0833,P0022,Oncology,Emergency,1,Yes
+A0834,P0003,Oncology,Routine,3,No
+A0835,P0127,Pediatrics,Elective,12,No
+A0836,P0297,General Medicine,Routine,9,No
+A0837,P0188,General Medicine,Emergency,5,Yes
+A0838,P0014,Pediatrics,Routine,12,No
+A0839,P0012,Orthopedics,Elective,10,No
+A0840,P0087,Orthopedics,Routine,2,Yes
+A0841,P0012,Oncology,Emergency,7,No
+A0842,P0025,Cardiology,Elective,2,No
+A0843,P0243,Orthopedics,Elective,4,No
+A0844,P0122,Cardiology,Routine,12,Yes
+A0845,P0147,General Medicine,Emergency,7,No
+A0846,P0055,Cardiology,Routine,4,No
+A0847,P0238,General Medicine,Emergency,7,No
+A0848,P0173,Pediatrics,Routine,7,No
+A0849,P0221,Pediatrics,Routine,1,Yes
+A0850,P0119,Oncology,Routine,6,Yes
+A0851,P0183,Orthopedics,Elective,9,No
+A0852,P0288,Oncology,Elective,2,No
+A0853,P0300,General Medicine,Routine,14,Yes
+A0854,P0082,Oncology,Emergency,3,Yes
+A0855,P0211,Cardiology,Elective,10,No
+A0856,P0150,General Medicine,Elective,5,Yes
+A0857,P0037,Pediatrics,Routine,9,Yes
+A0858,P0059,Orthopedics,Emergency,4,No
+A0859,P0131,General Medicine,Elective,1,Yes
+A0860,P0202,General Medicine,Routine,4,No
+A0861,P0243,Cardiology,Emergency,6,No
+A0862,P0035,Orthopedics,Routine,5,No
+A0863,P0093,Pediatrics,Emergency,14,No
+A0864,P0207,General Medicine,Emergency,13,No
+A0865,P0213,General Medicine,Emergency,1,No
+A0866,P0159,Cardiology,Emergency,4,No
+A0867,P0024,Oncology,Routine,6,No
+A0868,P0293,Pediatrics,Emergency,13,No
+A0869,P0004,Orthopedics,Elective,10,No
+A0870,P0220,General Medicine,Emergency,10,No
+A0871,P0020,General Medicine,Elective,14,Yes
+A0872,P0152,Pediatrics,Elective,4,No
+A0873,P0050,Oncology,Emergency,14,Yes
+A0874,P0177,General Medicine,Emergency,9,No
+A0875,P0096,Pediatrics,Routine,5,No
+A0876,P0105,Cardiology,Emergency,8,No
+A0877,P0250,Oncology,Elective,9,No
+A0878,P0117,Orthopedics,Emergency,10,No
+A0879,P0228,General Medicine,Routine,5,No
+A0880,P0066,Pediatrics,Emergency,6,Yes
+A0881,P0262,Cardiology,Elective,1,No
+A0882,P0295,Orthopedics,Emergency,11,No
+A0883,P0243,Pediatrics,Routine,12,No
+A0884,P0186,Pediatrics,Emergency,7,No
+A0885,P0246,Orthopedics,Routine,4,Yes
+A0886,P0125,Cardiology,Elective,11,No
+A0887,P0268,Cardiology,Emergency,2,No
+A0888,P0131,Oncology,Routine,5,No
+A0889,P0237,General Medicine,Emergency,12,No
+A0890,P0018,Orthopedics,Routine,3,No
+A0891,P0040,Orthopedics,Routine,6,No
+A0892,P0021,Orthopedics,Routine,8,No
+A0893,P0225,Cardiology,Emergency,7,No
+A0894,P0282,General Medicine,Routine,3,Yes
+A0895,P0008,Oncology,Elective,8,No
+A0896,P0100,Pediatrics,Routine,2,No
+A0897,P0240,Pediatrics,Elective,10,Yes
+A0898,P0087,Orthopedics,Routine,9,Yes
+A0899,P0298,General Medicine,Elective,4,No
+A0900,P0014,Cardiology,Elective,1,No
+A0901,P0002,General Medicine,Emergency,8,Yes
+A0902,P0293,General Medicine,Routine,7,No
+A0903,P0041,Cardiology,Elective,11,No
+A0904,P0111,Orthopedics,Elective,13,Yes
+A0905,P0014,General Medicine,Routine,5,Yes
+A0906,P0231,Pediatrics,Elective,10,No
+A0907,P0084,Cardiology,Emergency,13,No
+A0908,P0130,Oncology,Elective,5,No
+A0909,P0231,Orthopedics,Elective,7,Yes
+A0910,P0145,Cardiology,Elective,5,No
+A0911,P0028,Oncology,Emergency,8,No
+A0912,P0066,Oncology,Emergency,11,No
+A0913,P0163,General Medicine,Emergency,13,No
+A0914,P0229,General Medicine,Routine,6,No
+A0915,P0261,General Medicine,Emergency,13,No
+A0916,P0164,Cardiology,Elective,5,No
+A0917,P0287,Cardiology,Routine,9,Yes
+A0918,P0010,Orthopedics,Emergency,11,No
+A0919,P0195,General Medicine,Elective,2,Yes
+A0920,P0118,Oncology,Routine,1,No
+A0921,P0270,Pediatrics,Routine,8,No
+A0922,P0080,Orthopedics,Routine,12,No
+A0923,P0093,Cardiology,Routine,3,No
+A0924,P0266,Orthopedics,Routine,14,No
+A0925,P0257,Orthopedics,Elective,11,No
+A0926,P0133,Orthopedics,Routine,12,No
+A0927,P0276,Orthopedics,Emergency,12,No
+A0928,P0264,Pediatrics,Routine,12,No
+A0929,P0171,General Medicine,Elective,7,No
+A0930,P0001,Oncology,Elective,10,No
+A0931,P0064,Orthopedics,Emergency,13,No
+A0932,P0284,Orthopedics,Routine,11,No
+A0933,P0121,Orthopedics,Emergency,8,Yes
+A0934,P0107,General Medicine,Routine,13,Yes
+A0935,P0175,Cardiology,Routine,13,No
+A0936,P0204,Cardiology,Emergency,6,Yes
+A0937,P0165,Pediatrics,Routine,12,No
+A0938,P0120,Cardiology,Routine,10,No
+A0939,P0044,Orthopedics,Elective,14,Yes
+A0940,P0156,Orthopedics,Emergency,9,No
+A0941,P0207,Orthopedics,Emergency,7,Yes
+A0942,P0108,Pediatrics,Emergency,10,No
+A0943,P0251,Orthopedics,Emergency,5,Yes
+A0944,P0130,Cardiology,Routine,8,Yes
+A0945,P0293,General Medicine,Emergency,2,No
+A0946,P0020,General Medicine,Routine,7,No
+A0947,P0282,Oncology,Emergency,4,No
+A0948,P0285,Cardiology,Elective,9,No
+A0949,P0001,Orthopedics,Routine,12,No
+A0950,P0119,General Medicine,Routine,1,No
+A0951,P0035,Cardiology,Emergency,7,No
+A0952,P0198,General Medicine,Elective,6,No
+A0953,P0245,Orthopedics,Elective,8,No
+A0954,P0059,General Medicine,Emergency,5,No
+A0955,P0161,Oncology,Emergency,1,No
+A0956,P0179,Oncology,Elective,1,No
+A0957,P0206,General Medicine,Elective,9,No
+A0958,P0012,Cardiology,Routine,10,No
+A0959,P0276,Cardiology,Emergency,6,No
+A0960,P0181,Cardiology,Elective,10,No
+A0961,P0242,General Medicine,Elective,5,No
+A0962,P0216,Cardiology,Routine,1,Yes
+A0963,P0251,Orthopedics,Routine,6,No
+A0964,P0299,Oncology,Elective,6,Yes
+A0965,P0126,Orthopedics,Routine,3,No
+A0966,P0217,Cardiology,Emergency,13,Yes
+A0967,P0285,Orthopedics,Elective,8,Yes
+A0968,P0185,Cardiology,Emergency,14,No
+A0969,P0039,General Medicine,Elective,1,No
+A0970,P0223,Orthopedics,Routine,1,Yes
+A0971,P0184,General Medicine,Routine,6,No
+A0972,P0178,General Medicine,Emergency,10,No
+A0973,P0294,Pediatrics,Elective,13,Yes
+A0974,P0151,Cardiology,Elective,1,Yes
+A0975,P0126,Oncology,Emergency,6,No
+A0976,P0234,Cardiology,Emergency,1,No
+A0977,P0008,Oncology,Emergency,14,Yes
+A0978,P0129,Cardiology,Emergency,13,No
+A0979,P0264,General Medicine,Emergency,6,No
+A0980,P0157,Orthopedics,Emergency,3,No
+A0981,P0005,Orthopedics,Emergency,14,No
+A0982,P0086,Pediatrics,Routine,14,No
+A0983,P0175,Oncology,Elective,8,No
+A0984,P0290,Oncology,Routine,13,No
+A0985,P0193,Oncology,Elective,6,No
+A0986,P0119,General Medicine,Routine,13,No
+A0987,P0218,Oncology,Routine,11,No
+A0988,P0114,Orthopedics,Elective,13,Yes
+A0989,P0145,General Medicine,Elective,1,No
+A0990,P0026,Cardiology,Routine,5,No
+A0991,P0136,Oncology,Emergency,8,No
+A0992,P0232,Oncology,Emergency,3,No
+A0993,P0076,Cardiology,Elective,12,No
+A0994,P0289,Oncology,Elective,6,Yes
+A0995,P0001,Cardiology,Emergency,5,No
+A0996,P0147,General Medicine,Routine,6,No
+A0997,P0287,Orthopedics,Elective,10,Yes
+A0998,P0142,Cardiology,Elective,1,Yes
+A0999,P0053,Pediatrics,Routine,7,No
+A1000,P0069,Cardiology,Elective,9,Yes
